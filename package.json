@@ -1,6 +1,6 @@
 {
-    "name": "ladda-bootstrap",
-    "version": "0.8.0",
+    "name": "ladda-foundation-5",
+    "version": "0.1.0",
     "license": "MIT",
     "description": "Buttons with built-in loading indicators, effectively bridging the gap between action and feedback",
     "homepage": "http://msurguy.github.io/ladda-bootstrap/",
