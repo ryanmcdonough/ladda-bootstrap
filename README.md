@@ -1,12 +1,10 @@
-# Ladda for Bootstrap 3
+# Ladda for Foundation 5
 
 Buttons with built-in loading indicators, effectively bridging the gap between action and feedback. 
 
-[Check out the demo page](http://msurguy.github.io/ladda-bootstrap/).
 
 ## Instructions
 
-Please see the demo page for the details: (http://msurguy.github.io/ladda-bootstrap/).
 
 #### HTML
 
