@@ -8,7 +8,7 @@
         "dist/ladda.js"
     ],
     "dependencies": {
-        "bootstrap": ">=3.0.0",
+        "foundation": ">=5.0.0",
         "spin.js": "~1.3.2"
     },
     "readme": "README.md",
