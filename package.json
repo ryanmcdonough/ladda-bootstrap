@@ -3,15 +3,14 @@
     "version": "0.1.0",
     "license": "MIT",
     "description": "Buttons with built-in loading indicators, effectively bridging the gap between action and feedback",
-    "homepage": "http://msurguy.github.io/ladda-bootstrap/",
-    "bugs": "https://github.com/msurguy/ladda-bootstrap/issues",
+    "bugs": "https://github.com/ryanmcdonough/ladda-foundation-5/issues",
     "repository": { 
         "type" : "git",
-        "url" : "http://github.com/msurguy/ladda-bootstrap.git"
+        "url" : "http://github.com/ryanmcdonough/ladda-foundation-5.git"
     },
     "author": {
-        "name": "Maksim Surguy",
-        "url": "http://maxoffsky.com/"
+        "name": "Ryan McDonough",
+        "url": "https://ryanmcdonough.co.uk/"
     },
     "devDependencies": {
         "grunt": "~0.4",
